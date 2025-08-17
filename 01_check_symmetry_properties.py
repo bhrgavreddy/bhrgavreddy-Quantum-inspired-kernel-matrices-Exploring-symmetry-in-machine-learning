@@ -1,0 +1,42 @@
+
+#from func_verification_legacy import *
+from func_verification import *
+
+
+# Example usage
+for n in range(2, 8):
+    print(f"Checking SU({n}):")
+    result = verify_SU_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking SO({n}):")
+    result = verify_SO_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking GL({n}):")
+    result = verify_GL_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking SL({n}):")
+    result = verify_SL_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking U({n}):")
+    result = verify_U_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking T({n}):")
+    result = verify_T_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
+    print(f"Checking O({n}):")
+    result = verify_O_generators(n)
+    print(result)
+    print('\n\n\n#################################################')
+    print('#################################################')
