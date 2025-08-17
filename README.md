@@ -8,7 +8,7 @@ This project explores **quantum-inspired kernel methods** by leveraging **Lie gr
 
 - 🧪 **Type:** Self-Directed Research Project  
 - 📍 **Date:** April 2025  
-- 📄 **Based on Paper:** *Quantum Inspired Kernel Matrices*  
+- 📄 **Based on Paper:** *Quantum Inspired Kernel Matrices: Exploring Symmetry in Machine Learning*  
 - 🧠 **Focus:** Lie Group Symmetries, Kernel Methods, Quantum-Inspired ML
 
 ---
